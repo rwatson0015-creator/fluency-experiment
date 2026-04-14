@@ -52,7 +52,7 @@ red          = [255, 0, 0];
 Screen('TextSize', window, 120);
 
 % I dont know what the trigger key for this is so i just put a placeholder
-triggerKey = KbName('5%');
+triggerKey = KbName('space');
 
 for run = 1:runs
 
